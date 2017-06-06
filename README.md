@@ -15,6 +15,7 @@
 #### LOCAL DEPLOYMENT ####
 * make sure port 8080 is open
 * refresh all gradle projects
+* ./gradlew build
 * ./gradlew bootRun
 
 ### Contribution guidelines ###
